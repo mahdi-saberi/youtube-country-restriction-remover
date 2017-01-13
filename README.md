@@ -3,11 +3,14 @@
 
 ## Requirements & Installation
 VPS for php code (or you can use your local compouter)
+
 Installing [youtube-dl] (https://rg3.github.io/youtube-dl/) on your vps/local computer
+
 Upload y.php on your webserver which is very simple as you can see below in this page
 
 Installing greasemonkey which is client app to run javascript on specific pages
-[firefox] (https://addons.mozilla.org › Add-ons for Firefox › Extensions) [chrome] (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+[greasemonkey for firefox] (https://addons.mozilla.org › Add-ons for Firefox › Extensions)  | 
+[greasemonkey for chrome] (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 Change SERVER_URL to your vps ip address or if you use in youtube-unblock.user.js on line 19
 
